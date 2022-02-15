@@ -131,6 +131,27 @@ header, footer {
     border-radius: 50% !important;
     border: 3px solid var(--color1);
 }
+/* Карусель */
+.carausel {
+    padding: 50px 0 50px 0;
+    position: relative;   
+}
+.slick-prev {
+    position: absolute;
+    top: 100%;
+    margin-left: 45%;
+    border: none;
+    background-color: white;
+    border-radius: 50% !important;
+}
+.slick-next {
+    position: absolute;
+    top: 100%;
+    margin-left: 55%;
+    border: none;
+    background-color: white;
+    border-radius: 50% !important;
+}
 footer {
     padding: 30px 0;
 }
