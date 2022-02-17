@@ -29,7 +29,7 @@ header, footer {
     align-items: center;
     cursor: pointer;
     margin: 30px auto;
-    transition: all 0.2s case;
+    transition: all 0.2s ease;
 }
 
 .play:hover {
