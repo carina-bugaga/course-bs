@@ -1,1 +1,1 @@
-# course-bs
+Aдаптивные сайт с помощью Bootstrap
